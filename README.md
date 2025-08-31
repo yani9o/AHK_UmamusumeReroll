@@ -40,6 +40,8 @@ Download the [Latest Release](https://github.com/yani9o/AHK_UmamusumeReroll/rele
 5) Press Space to start the Script.<br>
 <br>
 6) Wait for it to complete (Sound is played if not disabled in settings).<br>
+
+*It will automatically close the WebBrowser-Popups*<br>
 <br>
 
 ## Settings
